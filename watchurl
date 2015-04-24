@@ -1,0 +1,7 @@
+# rubygem-simplecov requires version (>= 0.30)
+# check: https://github.com/colszowka/simplecov/blob/master/Gemfile
+# rubygem-uglifier requires version (~> 0.31.0)
+# check: https://github.com/lautis/uglifier/blob/master/Gemfile
+# rubygem-aruba requires version (~> 0.26.0)
+# check: https://rubygems.org/gems/aruba/versions/0.6.2
+watchurl=https://rubygems.org/gems/rubocop/versions/(0.31.[\d\.]*)
