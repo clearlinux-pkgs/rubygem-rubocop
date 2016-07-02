@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rubocop
 Version  : 0.41.1
-Release  : 10
+Release  : 11
 URL      : https://rubygems.org/downloads/rubocop-0.41.1.gem
 Source0  : https://rubygems.org/downloads/rubocop-0.41.1.gem
 Summary  : No detailed summary available
